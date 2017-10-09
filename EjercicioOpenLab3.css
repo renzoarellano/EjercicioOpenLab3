@@ -1,0 +1,25 @@
+
+
+
+body{
+  background: #2E4053;
+}
+
+img01{
+
+  background-image: url(../imagenes/Fondo1.jpg);
+}
+
+  p{
+color: white;
+
+  }
+
+  h3{
+    color:white;
+  }
+
+#background{
+
+  background: white;
+}
